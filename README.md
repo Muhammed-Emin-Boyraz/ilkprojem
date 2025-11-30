@@ -1,0 +1,2 @@
+# ilkprojem
+python öğreniyorum
